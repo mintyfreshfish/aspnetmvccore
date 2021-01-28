@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkvtpFhROJtBaZHZfDOUbdRbg8tORgVARVg5y5/qC4DgwZv7F6L74MH0MEDV73Rd7Itt6VB3+ANxWfHL//RluQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukyb\\Desktop\\IS413\\WebApplication1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukyb\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

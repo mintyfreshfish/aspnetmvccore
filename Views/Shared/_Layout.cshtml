@@ -1,0 +1,33 @@
+﻿@{
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="img/rainbow-rain.png" type="image/gif" sizes="16x16">
+    <title>@ViewBag.Title</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Main Bean</a></li>
+                <li><a asp-controller="Home" asp-action="Calculator">Calculator</a></li>
+            </ul>
+        </nav>
+        <h1>@ViewBag.Title</h1>
+        <h2>the best thing ever</h2>
+    </header>
+
+    @RenderBody()
+
+
+
+    <script src="/node_modules/jquery/dist/jquery.js"></script>
+    <script src="~/js/JavaScript.js"></script>
+
+</body>
+</html>
